@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>iCOM SRS</title>
+  <title>ICT SRS</title>
   <link rel="shortcut icon" href="{{ asset('/dist/img/icom.jpg') }}">
    
   <!-- Google Font: Source Sans Pro -->
@@ -26,8 +26,8 @@
   <aside class="main-sidebar sidebar-dark-primary elevation-4">
     <!-- Brand Logo -->
     <a href="/dashboard" class="brand-link">
-      <img src="/dist/img/icom.jpg"  class="brand-image img-circle elevation-3" style="opacity: 1">
-      <span class="brand-text font-weight-light">iCOM SRS</span>
+      <img src="/dist/img/logo.png"  class="brand-image img-circle elevation-3" style="opacity: 1">
+      <span class="brand-text font-weight-light">ICT SRS</span>
     </a>
 
     <!-- Sidebar -->
@@ -38,7 +38,7 @@
           <img src="/dist/img/userict.jpg" class="img-circle elevation-2" alt="User Image">
         </div>
         <div class="info">
-          <a href="/dashboard" class="d-block">iCOM Admin</a>
+          <a href="/dashboard" class="d-block">ICT Admin</a>
         </div>
       </div>
 

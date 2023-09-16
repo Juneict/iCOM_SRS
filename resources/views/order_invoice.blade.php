@@ -21,9 +21,9 @@
     <div class="row">
       <div class="col-12">
         <h2 class="page-header">
-          <img src="/dist/img/icom.jpg" alt="" width="180" height="100"> icom Computer Sales & Services
-            <h5>No:C48, Myit Tar St; KanThar Quarter; Magway.</h5>
-            <h5><p>lwinkohtay.icom@gmail.com , ph - 09401659114</p></h5>
+          <img src="/dist/img/logo.png" width="180" height="100"> ICT Technology Solution Centre
+            <h5>အခန်း(၁၀) ပထမထပ်၊ အဆင့်မြင့်သုံးထပ်စျေး၊လမ်းငါးသွယ်အဝိုင်း၊ မကွေးမြို့။ </h5>
+            <h5><p>095343166, 09785433166, 09401639571</p></h5>
           </h2>
       </div>
       <!-- /.col -->

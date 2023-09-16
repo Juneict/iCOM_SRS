@@ -14,7 +14,7 @@ class AddTaskIdToCustomersTable extends Migration
     public function up()
     {
         Schema::table('customers', function (Blueprint $table) {
-            $table->integer('task_id');
+            $table->integer('task_id')->nullable();
         });
     }
 
